@@ -1,4 +1,4 @@
-# Twitter analysis Dutch elections 2021
+# Twitter analysis into the Dutch elections of 2021
 
 As social media continues to play an increasingly key role in everyday life, more people openly discuss their political opinions online. Harvesting this data for social research results in unprecedented insights in public opinion. Data collection on such a large scale is something that was not possible before and has lead to new issues arising as larger amounts of data become available.
 
